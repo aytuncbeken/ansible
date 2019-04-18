@@ -1,0 +1,9 @@
+[submodule "glusterfs-cluster-with-loop-devices"]
+	path = glusterfs-cluster-with-loop-devices
+	url = https://github.com/aytuncbeken/glusterfs-cluster-with-loop-devices.git
+[submodule "playbooks/glusterfs-cluster-with-loop-devices"]
+	path = playbooks/glusterfs-cluster-with-loop-devices
+	url = https://github.com/aytuncbeken/glusterfs-cluster-with-loop-devices.git
+[submodule "playbooks/drbd-replication-with-loop-devices"]
+	path = playbooks/drbd-replication-with-loop-devices
+	url = https://github.com/aytuncbeken/drbd-replication-with-loop-devices.git
